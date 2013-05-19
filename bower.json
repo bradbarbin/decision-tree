@@ -1,0 +1,7 @@
+{
+  "name": "decision-tree",
+  "version": "0.0.0",
+  "dependencies": {
+    "d3": "~3.1.7"
+  }
+}
